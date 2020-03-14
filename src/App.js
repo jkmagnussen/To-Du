@@ -80,15 +80,7 @@ class App extends Component {
                     className="x"
                     onClick={() => this.deleteItem(item.id)}
                   >
-                    <img
-                      className="bin"
-                      src={bin}
-                      alt="bin"
-                      style={{
-                        width: 68,
-                        height: 48
-                      }}
-                    />
+                    <img className="bin" src={bin} alt="bin" />
                   </button>
                 </li>
               </div>
