@@ -8,4 +8,4 @@ upon cloning the repo:
 
 npm install > npm start
 
-Active applkication can be found at : https://jkmagnussen.com/todo/
+Active application can be found at : https://jkmagnussen.com/todo/
